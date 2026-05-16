@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">计划监督</string>
+    <string name="widget_description">训练计时器状态</string>
+</resources>
